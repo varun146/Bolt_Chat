@@ -1,2 +1,2 @@
-# Bolt_Chat
+# Bolt Chat
 A real-time chat application
